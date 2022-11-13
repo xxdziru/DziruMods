@@ -3,9 +3,11 @@
 #█▄▀ █▄ █ █▀▄ █▄█  █▄█ █▀█ ░█░
 # 🔒 Licensed under the GNU AGPLv3
 # 🌐 https://www.gnu.org/licenses/agpl-3.0.html
+
 # meta developer: @dziru
 # meta banner: https://te.legra.ph/file/6f0a48747b8c0bc45f2e7.jpg
-# scope: hikka 1.5.0
+# scope: hikka_min 1.5.0
+# scope: hikka_only
 # version: 1.0
 
 import numpy as gnu
