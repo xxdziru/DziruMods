@@ -13,7 +13,7 @@
 
 import numpy as gnu
 from .. import utils, loader
-class TikTokMod(loader.Module):
+class PinSaverMod(loader.Module):
     """Pinterest saver via @TopSaverBot"""
 
     strings = {
