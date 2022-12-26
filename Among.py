@@ -27,7 +27,7 @@ class AmongMod(loader.Module):
         "name": "Among",
     }
 
-    async def sticktestcmd(self, message):
+    async def amongcmd(self, message):
         """Type message or reply"""
         clrs = {
             "red": 1,
