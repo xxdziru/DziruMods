@@ -65,7 +65,7 @@ class AmongMod(loader.Module):
                 ("Cores disponíveis:\n" + "\n".join(f"• `{i}`" for i in list(clrs.keys())))
             )
             return
-        url = "https://raw.githubusercontent.com/KeyZenD/AmongUs/master/"
+        url = "https://raw.githubusercontent.com/xxdziru/DziruMods/master/Assets/Amongus"
         font = ImageFont.truetype(BytesIO(get(url + "bold.ttf").content), 60)
         imposter = Image.open(BytesIO(get(f"{url}{clr}.png").content))
         text_ = "\n".join("\n".join(wrap(part, 30)) for part in text.split("\n"))
