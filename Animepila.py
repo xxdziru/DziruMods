@@ -189,7 +189,7 @@ class PilaAnimeMod(loader.Module):
         await self.client.delete_dialog('@narutorubot')
 
     async def pila12cmd(self, message):
-        """Человек бензопила 2"""
+        """Человек бензопила 12"""
         anime = "/anime"
         pila = "Человек-Бензопила"
         part = "12 Серия🪚"
